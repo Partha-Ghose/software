@@ -1,0 +1,18 @@
+/swissgroce
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/debugbar
+<<<<<<< HEAD
+=======
+/storage/framework/cache
+>>>>>>> e2e683bfd90fa3417d809d4450841e8e46cda313
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
